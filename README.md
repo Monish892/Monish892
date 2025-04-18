@@ -16,7 +16,6 @@
 
 I'm a software developer with a passion for building elegant solutions to complex problems. When I'm not crafting clean code, you'll find me exploring emerging technologies, contributing to open-source projects, or mentoring fellow developers. I believe in the power of technology to transform lives and am committed to creating applications that make a meaningful impact.
 
-<img align="right" alt="Coding" width="400" src="/api/placeholder/400/300" />
 
 ## 💻 Tech Stack
 
