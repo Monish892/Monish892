@@ -23,17 +23,6 @@ Software developer with expertise in full-stack web development and cloud soluti
 - **Software product enginnering** in Computer Science - University of Lovely Professional university, punjab (2027)
 - Relevant coursework: Data Structures & Algorithms, Database Systems, Machine Learning, Software Engineering
 
-## 📈 Professional Experience
-- **Software Engineer** at TechInnovate (2022-Present)
-  - Developed and maintained cloud-native applications using microservice architecture
-  - Reduced API response time by 40% through code optimization and caching strategies
-  - Collaborated in an Agile environment with cross-functional teams to deliver features on schedule
-
-- **Software Development Intern** at DataFlow Systems (Summer 2021)
-  - Implemented new features for the company's flagship product using React and Node.js
-  - Created automated testing suites that improved code coverage by 25%
-  - Participated in code reviews and contributed to documentation improvements
-
 ## 🧩 LeetCode
 [![Monish's LeetCode stats](https://leetcard.jacoblin.cool/Monish892?theme=dark&font=Baloo%202&ext=contest)](https://leetcode.com/Monish892/)
 
