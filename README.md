@@ -1,4 +1,4 @@
-# <div align="center">✨ Hello World, I'm Monish! ✨</div>
+lpu# <div align="center">✨ Hello World, I'm Monish! ✨</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cloud+Solutions+Architect;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
@@ -49,7 +49,7 @@ I'm a software developer with a passion for building elegant solutions to comple
 ## 🎓 Education
 
 <div align="center">
-  <img src="/api/placeholder/150/150" alt="University Logo" width="150" height="150" align="right"/>
+  <img src="https://happenings.lpu.in/wp-content/uploads/2016/06/logo-1.png" alt="logo" width="150" height="150" align="right"/>
 </div>
 
 - **Software Product Engineering** - B.Tech in Computer Science
