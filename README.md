@@ -35,47 +35,6 @@ I'm a software developer with a passion for building elegant solutions to comple
   
 </div>
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project Nebula</h3>
-      <div align="center">
-        <img src="/api/placeholder/350/200" alt="Project Nebula" width="350" height="200"/>
-        <p>A cloud-native application with real-time collaboration features, leveraging microservices architecture and WebSockets.</p>
-        <p><a href="https://github.com/Monish892/project-nebula"><strong>Explore Repository »</strong></a></p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">DataFlow</h3>
-      <div align="center">
-        <img src="/api/placeholder/350/200" alt="DataFlow" width="350" height="200"/>
-        <p>Interactive data visualization platform built with React and D3.js, featuring customizable dashboards and real-time analytics.</p>
-        <p><a href="https://github.com/Monish892/dataflow"><strong>Explore Repository »</strong></a></p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">EcoTrack</h3>
-      <div align="center">
-        <img src="/api/placeholder/350/200" alt="EcoTrack" width="350" height="200"/>
-        <p>Mobile application for tracking personal carbon footprint with gamification elements to encourage sustainable choices.</p>
-        <p><a href="https://github.com/Monish892/ecotrack"><strong>Explore Repository »</strong></a></p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">CodeMentor</h3>
-      <div align="center">
-        <img src="/api/placeholder/350/200" alt="CodeMentor" width="350" height="200"/>
-        <p>AI-powered coding assistant that provides personalized learning paths and code reviews for programming students.</p>
-        <p><a href="https://github.com/Monish892/codementor"><strong>Explore Repository »</strong></a></p>
-      </div>
-    </td>
-  </tr>
-</table>
-
 ## 🧩 Coding Stats
 
 <div align="center">
@@ -98,16 +57,6 @@ I'm a software developer with a passion for building elegant solutions to comple
   - Lovely Professional University, Punjab (Expected 2027)
   - Relevant coursework: Data Structures & Algorithms, Database Systems, Machine Learning, Software Engineering
 
-## 🌱 Currently Exploring
-
-<div align="center">
-  
-  ![Advanced ML](https://img.shields.io/badge/Advanced_ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-  ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-  
-</div>
 
 ## 📊 GitHub Activity
 
@@ -123,9 +72,8 @@ I'm a software developer with a passion for building elegant solutions to comple
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monish-developer)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-1E1E2E?style=for-the-badge&logo=vercel&logoColor=white)](https://monish-dev.io)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gr.monish.s65@kalvium.community)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gr-monish-291006359/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayachiraramesh08@gmail.com)
   
 </div>
 
