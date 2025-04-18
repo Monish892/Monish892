@@ -20,7 +20,7 @@ Software developer with expertise in full-stack web development and cloud soluti
 *Your project description will go here*
 
 ## 🎓 Education
-- **Bachelor of Science** in Computer Science - University of California, Berkeley (2022)
+- **Software product enginnering** in Computer Science - University of Lovely Professional university, punjab (2027)
 - Relevant coursework: Data Structures & Algorithms, Database Systems, Machine Learning, Software Engineering
 
 ## 📈 Professional Experience
@@ -34,6 +34,9 @@ Software developer with expertise in full-stack web development and cloud soluti
   - Created automated testing suites that improved code coverage by 25%
   - Participated in code reviews and contributed to documentation improvements
 
+## 🧩 LeetCode
+[![Monish's LeetCode stats](https://leetcard.jacoblin.cool/Monish892?theme=dark&font=Baloo%202&ext=contest)](https://leetcode.com/Monish892/)
+
 ## 🌱 Currently Learning
 - Advanced Machine Learning techniques
 - Rust programming language
@@ -43,7 +46,7 @@ Software developer with expertise in full-stack web development and cloud soluti
 ## 💬 Let's Connect
 - [LinkedIn](https://linkedin.com/in/monish-developer)
 - [Portfolio](https://monish-dev.io)
-- 📫 Email: gr.monishs65@kalvium.community
+- 📫 Email: gr.monish.s65@kalvium.community
 
 ## 📊 GitHub Stats
 ![Monish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monish892&show_icons=true&theme=radical)
