@@ -42,7 +42,7 @@ Brief description of the project, technologies used, and your contribution.
 - 📫 Email: gr.monish.s65@kalvium.community
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Monish892&show_icons=true&theme=radical)
 
 ## ⚡ Fun Fact
 [Something interesting about yourself that might spark conversation]
