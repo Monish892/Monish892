@@ -68,4 +68,3 @@ I'm a software developer with a passion for building elegant solutions to comple
 
 
 
-update thi more athetic and profeionally and eay for recuruter to hortlit
